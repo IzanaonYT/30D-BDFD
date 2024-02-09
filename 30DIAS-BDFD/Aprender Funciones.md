@@ -33,9 +33,9 @@ Normalmente encontra el apartado de una funcion de esta manera
 
   Ahora para poner los valores de los parametros o argumentos puede ver la primera imagen del apartado N2.
 
-  ```python
+```python
   Si no Tiene Idea de como usar o saber que son los parametros o argumentos en Bot Desinger For Discord por favor Vuelva al dia 2.
-  ```
+```
 
 
 
