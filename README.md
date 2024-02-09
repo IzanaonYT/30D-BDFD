@@ -4,3 +4,4 @@ Para comenzar cabe recalcar que esto se hace con fines de sin lucro y apoyar ala
 
 
 - [**Dia 1 - Sintaxis de codigo**](#)<br>
+- [**Dia 2 - Aprender Funciones**](#)<br>
