@@ -14,6 +14,11 @@ Normalmente encontra el apartado de una funcion de esta manera
   ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/a8b06748-c012-46ef-8c81-55946c860cd4)
 
 - **Apartado - N2**<br>
-  Los desarrolladores nos proporcionan un ejemplo de lo que debe ir en cada argumento o parámetro de cada función. Sin embargo, es importante tener cuidado, ya que los valores no están reemplazados por lo que debería ir, sino que son una referencia de lo que debería ir correctamente.
+  Los desarrolladores nos proporcionan un ejemplo (TAG) de lo que debe ir en cada argumento o parámetro de cada función. Sin embargo, es importante tener cuidado, ya que los valores no están reemplazados por lo que debería ir, sino que son una referencia de lo que debería ir correctamente.
 
   ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/89629b3d-1492-4e32-8945-97c1c9c263a2)
+
+  Esta seria la forma correcta de poner un valor correcto de cada parametro o argumento de la funcion que estamos viendo.
+
+  ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/7cc28ff8-42ef-461d-8cae-826fb2428299)
+
