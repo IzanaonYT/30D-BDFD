@@ -16,13 +16,12 @@ Normalmente encontra el apartado de una funcion de esta manera
 - **Apartado - N2**<br>
   Los desarrolladores nos proporcionan un ejemplo (TAG) de lo que debe ir en cada argumento o parámetro de cada función. Sin embargo, es importante tener cuidado, ya que los valores no están reemplazados por lo que debería ir, sino que son una referencia de lo que debería ir correctamente.
 
+  ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/89629b3d-1492-4e32-8945-97c1c9c263a2)
+
   Al español la imagen traducida seria:
   ```python
   $title[Texto;Indice]
   ```
-
-  ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/89629b3d-1492-4e32-8945-97c1c9c263a2)
-
   Esta seria la forma correcta de poner un valor correcto de cada parametro o argumento de la funcion que estamos viendo, tranquilo complementaremos la imagen que ves con el Apartado N3.
 
   ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/7cc28ff8-42ef-461d-8cae-826fb2428299)
