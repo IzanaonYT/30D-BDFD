@@ -4,4 +4,4 @@ Para comenzar cabe recalcar que esto se hace con fines de sin lucro y apoyar ala
 
 
 - **Dia 1 - Sintaxis de codigo**<br>
-  Cabe recalcar que Bot Desinger For Discord no tiene un sintaxis un ejemplo seria python que maneja su sintaxis por bloques pero Bot Desinger For Discord no, puedes escribir codigo libremente ya se dando salto de pagina o codigo largo.
+  Es importante destacar que Bot Designer for Discord no sigue una sintaxis estructurada como la de Python, que organiza el código en bloques. En Bot Designer for Discord, puedes escribir código libremente sin preocuparte por seguir una estructura específica. Puedes dar saltos de página o escribir código extenso según lo necesites sin que afecte la funcionalidad del programa.
