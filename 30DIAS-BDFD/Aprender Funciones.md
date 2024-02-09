@@ -22,7 +22,7 @@ Normalmente encontra el apartado de una funcion de esta manera
   ```python
   $title[Texto;Indice]
   ```
-  Esta seria la forma correcta de poner un valor correcto de cada parametro o argumento de la funcion que estamos viendo, tranquilo complementaremos la imagen que ves con el Apartado N3.
+  Esta seria la forma correcta de poner un valor correcto de cada parametro o argumento de la funcion que estamos viendo, tranquilo complementaremos la informacion que ves con el Apartado N3.
 
   ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/7cc28ff8-42ef-461d-8cae-826fb2428299)
 
