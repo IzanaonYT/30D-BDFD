@@ -7,3 +7,6 @@ Normalmente encontra el apartado de una funcion de esta manera
 
 ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/b3aeaf9f-74c6-4072-ad60-4a5ba520e517)
 
+- Apartado - N1
+  Cuando usted vea como titulo o texto resaltante el nombre de la funcion podra encontrar una breve y acertada descricpion para que sirve dicha funcion.
+  ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/f2d51e82-6632-420d-a8f0-2ee637192909)
