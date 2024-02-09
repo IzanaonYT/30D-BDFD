@@ -23,7 +23,11 @@ Normalmente encontra el apartado de una funcion de esta manera
   ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/7cc28ff8-42ef-461d-8cae-826fb2428299)
 
 - **Apartado - N3**<br>
-  Los desarrolladores tambien incluyeron un apartado de "Argumentos" donde se explica que tipo de Parametros o Argumentos son los que tiene la funcion en este caso $title
+  Los desarrolladores tambien incluyeron un apartado de "Argumentos" donde se explica que tipo de Parametros o Argumentos son los que tiene la funcion en este caso $title.
+
+  Traducido la imagen al español dice
+  - Texto (Tipo: Cadena || Bandera: Empiable): El texto para establecer el título. No puede exceder más de 256 caracteres.
+  - Índice (Tipo: Entero || Bandera: Opcional): A qué índice de inserción debe pertenecer el título, el valor predeterminado es 1.
   
   ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/9786172d-1bde-4d30-8a28-3eb2b6adb3e2)
 
