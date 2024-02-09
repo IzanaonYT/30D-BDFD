@@ -18,8 +18,14 @@ Normalmente encontra el apartado de una funcion de esta manera
 
   ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/89629b3d-1492-4e32-8945-97c1c9c263a2)
 
-  Esta seria la forma correcta de poner un valor correcto de cada parametro o argumento de la funcion que estamos viendo, tranquilo complementaremos la imagen que ves con el Apartado N5.
+  Esta seria la forma correcta de poner un valor correcto de cada parametro o argumento de la funcion que estamos viendo, tranquilo complementaremos la imagen que ves con el Apartado N3.
 
   ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/7cc28ff8-42ef-461d-8cae-826fb2428299)
+
+- **Apartado - N3**
+  Los desarrolladores tambien incluyeron un apartado de "Argumentos" donde se explica que tipo de Parametros o Argumentos son los que tiene la funcion en este caso $title
+  
+  ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/9786172d-1bde-4d30-8a28-3eb2b6adb3e2)
+
 
 
