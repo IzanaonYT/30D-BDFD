@@ -9,6 +9,6 @@ Normalmente encontra el apartado de una funcion de esta manera
 
 - **Apartado - N1**<br>
   Cuando usted vea como titulo o texto resaltante el nombre de la funcion podra encontrar una breve y acertada descricpion para que sirve dicha funcion.
-
+  En este caso la funcion "$title", que su breve descripcion al español dice lo siguiente: Agrega un título incrustado al mensaje de respuesta del bot.
   ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/a8b06748-c012-46ef-8c81-55946c860cd4)
 
