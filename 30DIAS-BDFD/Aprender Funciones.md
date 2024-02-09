@@ -31,5 +31,7 @@ Normalmente encontra el apartado de una funcion de esta manera
   
   ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/9786172d-1bde-4d30-8a28-3eb2b6adb3e2)
 
+  Ahora para poner los valores de los parametros o argumentos puede ver la primera imagen del apartado N2.
+
 
 
