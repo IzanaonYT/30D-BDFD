@@ -18,7 +18,8 @@ Normalmente encontra el apartado de una funcion de esta manera
 
   ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/89629b3d-1492-4e32-8945-97c1c9c263a2)
 
-  Esta seria la forma correcta de poner un valor correcto de cada parametro o argumento de la funcion que estamos viendo.
+  Esta seria la forma correcta de poner un valor correcto de cada parametro o argumento de la funcion que estamos viendo, tranquilo complementaremos la imagen que ves con el Apartado N5.
 
   ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/7cc28ff8-42ef-461d-8cae-826fb2428299)
+
 
