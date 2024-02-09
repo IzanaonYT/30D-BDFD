@@ -8,3 +8,8 @@ Esto se evidencia al emplear condiciones o bloques de código condicionales, los
 La organización del script también puede ser estructurada según la preferencia del usuario, es decir, de acuerdo con tus elecciones.
 
 ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/9601c04e-fa72-485e-a7c6-4c284e04f782)
+
+Sin importar la elección de estructuración, el resultado al ejecutar el script será el mismo.
+
+![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/b8cb4723-97af-4432-b3fe-4d4f07847e04)
+
