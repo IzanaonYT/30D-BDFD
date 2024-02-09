@@ -4,5 +4,5 @@ Para comenzar cabe recalcar que esto se hace con fines de sin lucro y apoyar ala
 
 
 - [**Dia 1 - Sintaxis de codigo**](#)<br>
-- [**Dia 2 - Parametro o Argumentos**](#)<br>
+- [**Dia 2 - Parametros o Argumentos**](#)<br>
 - [**Dia 3 - Aprender Funciones**](#)<br>
