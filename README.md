@@ -3,4 +3,4 @@
 Para comenzar cabe recalcar que esto se hace con fines de sin lucro y apoyar ala comunidad en Bot Desinger For Discord Ispanohblante
 
 
-### Dia 1 - Sintaxis de codigo
+-- Dia 1 - Sintaxis de codigo
