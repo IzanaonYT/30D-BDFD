@@ -10,4 +10,5 @@ Normalmente encontra el apartado de una funcion de esta manera
 - **Apartado - N1**<br>
   Cuando usted vea como titulo o texto resaltante el nombre de la funcion podra encontrar una breve y acertada descricpion para que sirve dicha funcion.
 
-  ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/f2d51e82-6632-420d-a8f0-2ee637192909)
+  ![image](https://github.com/IzanaonYT/30D-BDFD/assets/131629841/a8b06748-c012-46ef-8c81-55946c860cd4)
+
